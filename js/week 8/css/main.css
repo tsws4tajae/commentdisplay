@@ -1,0 +1,15 @@
+h1 {
+	text-align: center;
+}
+input{
+	margin-left: 500px;
+	padding-left: 160px;
+	padding-top: 10px;
+}
+button{
+	color: white;
+	background-color: red;
+	padding: 25px;
+	margin-left: 610px;
+	border-radius: 20px;
+}
